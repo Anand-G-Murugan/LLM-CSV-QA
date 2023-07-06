@@ -1,4 +1,4 @@
-# LLM-document-QA
+# LLM-CSV-QA
 This is a simple implementation of an LLM Based QA engine over custom CSV Input Data.
 
 ## Quickstart
